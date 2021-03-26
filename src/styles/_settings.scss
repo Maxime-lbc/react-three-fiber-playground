@@ -1,4 +1,4 @@
-html, body, #root, .App{
+html, body, #root, .App, .App:first-child{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -13,4 +13,10 @@ body{
 
 canvas{
     z-index: 0;
+    height: 100%;
+    width: 100%;
+
+    position: absolute;
+    top: 0;
+    left: 0;
 }
