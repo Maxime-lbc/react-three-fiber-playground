@@ -8,5 +8,9 @@ html, body, #root, .App{
 }
 
 body{
-    background: rgb(168, 131, 131);
+    background: rgb(156, 171, 202);
+}
+
+canvas{
+    z-index: 0;
 }

@@ -31,7 +31,7 @@ function ThreeCubes(props) {
 
                 
 
-                <BoxForm width={1} height={1} depth={1} position={[-2, 1 ,1]} color="blue" />
+                <BoxForm width={1} height={1} depth={1} position={[-2, 1 ,1]} color="grey" />
                 <BoxForm width={1} height={1} depth={1} position={[-1, -1, -1]} color="black" />
                 <BoxForm width={1} height={1} depth={1} position={[1, 1 ,1]} color="white" />
 
